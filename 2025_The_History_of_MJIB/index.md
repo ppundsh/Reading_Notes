@@ -540,9 +540,13 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 # 調查局在中國
 
+![](img/03_86.webp)
+
 ---
 
 # 調查局在台灣
+
+![](img/03_87.webp)
 
 ---
 
