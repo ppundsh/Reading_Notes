@@ -2,7 +2,7 @@
 
 ## 資料來源
 
-![](img%5C03_0.webp)
+![](img/03_0.webp)
 
 調查員揭密： 劉禮信\(調查員\)、范立達
 
@@ -34,13 +34,13 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 # 調查局的轉變~早期
 
-![](img%5C03_1.webp)
+![](img/03_1.webp)
 
 ---
 
 # 調查局的轉變~近代
 
-![](img%5C03_2.webp)
+![](img/03_2.webp)
 
 ---
 
@@ -74,7 +74,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 # ~1954 總統府機要室資料組
 
-![](img%5C03_3.webp)
+![](img/03_3.webp)
 
 日本時代為八勝園溫泉旅館
 
@@ -86,13 +86,13 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 資料組成為調查局實際上級，控制人事、經費與監督。
 
-![](img%5C03_4.webp)
+![](img/03_4.webp)
 
-![](img%5C03_5.webp)
+![](img/03_5.webp)
 
-![](img%5C03_6.webp)
+![](img/03_6.webp)
 
-![](img%5C03_7.webp)
+![](img/03_7.webp)
 
 ---
 總統府機要室資料組後續移到劍潭青年活動中心（前中國反共青年救國團，成立於1952年）
@@ -101,9 +101,9 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 調查局雖隸屬法務部的單位，但局長、處長更換都要安全局同意，調查局蒐集到的祕密情報也是循所謂的“情報管道”送到安全局。
 
-![](img%5C03_8.webp)
+![](img/03_8.webp)
 
-![](img%5C03_9.webp)
+![](img/03_9.webp)
 
 ---
 
@@ -127,7 +127,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 * 期間總統府資料室\(國安局前身\)也成立類似實驗室，包括照相、化學、爆破、毒藥等部門。
 
 
-![](img%5C03_11.webp)
+![](img/03_11.webp)
 
 ---
 
@@ -169,7 +169,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 石牌班在安全局成立後繼續存在，訓練地點改到台北市劍潭青年活動中心，之後再搬到淡水鎮的海邊沙崙里，最後搬到花蓮，和美國合作專門訓練特種人員。
 
-![](img%5C03_15.webp)
+![](img/03_15.webp)
 
 ---
 # 1950 敵後工作
@@ -217,7 +217,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 # 1958 中二組香港組織遭破獲
 
-![](img%5C03_20.webp)
+![](img/03_20.webp)
 
 香港皇家警察肅毒組原本收到情報為同棟大樓有人私藏毒品，但衝錯了辦公室。
 
@@ -257,7 +257,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 南韓也曾把異議份子金大中從日本綁架回國。
 
-![](img%5C03_23.webp)
+![](img/03_23.webp)
 
 ---
 
@@ -296,7 +296,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 * 保安警察大隊
 
 
-![](img%5C03_26.webp)
+![](img/03_26.webp)
 
 ---
 
@@ -311,7 +311,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 * 新店二十張景美軍區看守所（1968年10月以後）
 
 
-![](img%5C03_28.webp)
+![](img/03_28.webp)
 
 ---
 
@@ -332,7 +332,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
   * 土城生產教育實驗所 （生教所\)，後改名土城仁愛教育實驗所
 
 
-![](img%5C03_30.webp)
+![](img/03_30.webp)
 
 ---
 
@@ -340,13 +340,13 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 隸屬國防部，警總實為沒有法令依據，而是依照行政命令成立的機構。
 
-![](img%5C03_32.webp)
+![](img/03_32.webp)
 
 ---
 
 # 1968 臺灣省警備總司令部
 
-![](img%5C03_34.webp)
+![](img/03_34.webp)
 
 1945年9月成立的臺灣省警備總司令部（總司令陳儀）。
 
@@ -362,13 +362,13 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 1992 裁撤為海岸巡防司令部。
 
-![](img%5C03_35.webp)
+![](img/03_35.webp)
 
 ---
 
 # 1950 臺灣省保安司令部看守所（東本願寺）
 
-![](img%5C03_37.webp)
+![](img/03_37.webp)
 
 1928年日本時代為淨土真宗大谷派臺北別院
 
@@ -380,23 +380,23 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 ---
 
-![](img%5C03_39.webp)
+![](img/03_39.webp)
 
-![](img%5C03_40.webp)
+![](img/03_40.webp)
 
 ---
 
-![](img%5C03_42.webp)
+![](img/03_42.webp)
 
-![](img%5C03_43.webp)
+![](img/03_43.webp)
 
-![](img%5C03_44.webp)
+![](img/03_44.webp)
 
 ---
 
 # 1949 臺灣省警備總司令部(保安司令部)軍法處看守所(青島東路三號)
 
-![](img%5C03_46.webp)
+![](img/03_46.webp)
 
 原為清代的練兵場
 
@@ -406,15 +406,15 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 1968年，軍法處及軍法局遷入新北市新店區秀朗橋旁軍法學校之舊址景美看守所。
 
-![](img%5C03_47.webp)
+![](img/03_47.webp)
 
 ---
 
-![](img%5C03_49.webp)
+![](img/03_49.webp)
 
-![](img%5C03_50.webp)
+![](img/03_50.webp)
 
-![](img%5C03_51.webp)
+![](img/03_51.webp)
 
 ---
 
@@ -426,13 +426,13 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 直至1968年6月景美看守所建成，所有人犯才遷入景美看守所。
 
-![](img%5C03_53.webp)
+![](img/03_53.webp)
 
 ---
 
 # 國防部保密局本部
 
-![](img%5C03_55.webp)
+![](img/03_55.webp)
 
 日本時代為台北帝國大學預科校址，現為菁山營區。
 
@@ -444,9 +444,9 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 1984 發生江南案，國防部情報局與國防部特種情報室合併，並歸屬參謀本部管轄，也就是現在的國防部軍事情報局，從此由國安系統指揮。
 
-![](img%5C03_56.webp)
+![](img/03_56.webp)
 
-![](img%5C03_57.webp)
+![](img/03_57.webp)
 
 # 國防部保密局(軍情局、情報局)使用地點
 
@@ -460,19 +460,19 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 * 1967 警總景美看守所
 
 
-![](img%5C03_58.webp)
+![](img/03_58.webp)
 
-![](img%5C03_59.webp)
+![](img/03_59.webp)
 
-![](img%5C03_60.webp)
+![](img/03_60.webp)
 
 ---
 
 # 1951 國防部保密局臺北橋看守所
 
-![](img%5C03_62.webp)
+![](img/03_62.webp)
 
-![](img%5C03_63.webp)
+![](img/03_63.webp)
 
 俗稱北所，亦被稱高砂鐵工廠、北洋大學。
 
@@ -482,17 +482,17 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 ---
 
-![](img%5C03_65.webp)
+![](img/03_65.webp)
 
-![](img%5C03_66.webp)
+![](img/03_66.webp)
 
-![](img%5C03_67.webp)
+![](img/03_67.webp)
 
 ---
 
 # 1967 國防部保密局南所、臺灣警備總司令部保安處看守所
 
-![](img%5C03_69.webp)
+![](img/03_69.webp)
 
 日治時期，軍裝局先是改制為臺北兵器本廠，而後又改建為臺灣軍司令部軍官監獄。
 
@@ -500,19 +500,19 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 清末時約為小南門街（約為今延平南路）旁的軍裝局。
 
-![](img%5C03_70.webp)
+![](img/03_70.webp)
 
 ---
 
-![](img%5C03_72.webp)
+![](img/03_72.webp)
 
-![](img%5C03_73.webp)
+![](img/03_73.webp)
 
 ---
 
 # 國防部保密局武昌街招待所
 
-![](img%5C03_75.webp)
+![](img/03_75.webp)
 
 日本時代為臺灣總督府殖產局廳舍
 
@@ -520,9 +520,9 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 1923年再改由臺北市經營。
 
-![](img%5C03_76.webp)
+![](img/03_76.webp)
 
-![](img%5C03_77.webp)
+![](img/03_77.webp)
 
 ---
 
@@ -532,9 +532,9 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 押房為部份採賓夕凡尼亞式監獄放射狀配置，台灣另一個採此設計的為嘉義舊監獄。
 
-![](img%5C03_79.webp)
+![](img/03_79.webp)
 
-![](img%5C03_80.webp)
+![](img/03_80.webp)
 
 ---
 
@@ -570,7 +570,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 * 犯防：肅貪與賄選查察 、緝毒、防治經濟犯罪與洗錢。
 
 
-![](img%5C03_85.webp)
+![](img/03_85.webp)
 
 ---
 
@@ -595,9 +595,9 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 廖正豪法務部長與程泉代理局長各自使用調查局資源相鬥時，被媒體標為濃濃的血腥味。
 
-![](img%5C03_88.webp)
+![](img/03_88.webp)
 
-![](img%5C03_89.webp)
+![](img/03_89.webp)
 
 ---
 
@@ -635,7 +635,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 # 1993~ 調查局工作：保護元首
 
-![](img%5C03_93.webp)
+![](img/03_93.webp)
 
 立法院於101年通過“特種勤務條例”之前，國安局就定頒了國家安全局特種情務實施辦法來保護元首。
 
@@ -643,7 +643,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 聯指部據點為“福莊” 位於銘傳商專的山坡下隱密處。
 
-![](img%5C03_94.webp)
+![](img/03_94.webp)
 
 ---
 
@@ -719,7 +719,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 ---
 
-![](img%5C03_101.webp)
+![](img/03_101.webp)
 
 
 
@@ -732,7 +732,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
   * 安全局成立後該專案直屬局長，監聽電話翻譯書面文字、直接交由承辦人及局長。
 
 
-![](img%5C03_102.webp)
+![](img/03_102.webp)
 
 ---
 
@@ -742,11 +742,11 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 海巡署情報處在木柵馬明潭
 
-![](img%5C03_104.webp)
+![](img/03_104.webp)
 
-![](img%5C03_105.webp)
+![](img/03_105.webp)
 
-![](img%5C03_106.webp)
+![](img/03_106.webp)
 
 ---
 
@@ -764,9 +764,9 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 1974 年沈之岳任內調查局再遷至新店。
 
-![](img%5C03_108.webp)
+![](img/03_108.webp)
 
-![](img%5C03_109.webp)
+![](img/03_109.webp)
 
 ---
 
@@ -780,13 +780,13 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 掌握轄區、蒐集情報，認識攤販、賣檳榔的大叔、大樓管理員、印章店師傅、印刷廠老闆、里鄰長建立人脈。
 
-![](img%5C03_111.webp)
+![](img/03_111.webp)
 
 ---
 
 # 1952 臺灣臺北地方法院看守所(誠舍)
 
-![](img%5C03_113.webp)
+![](img/03_113.webp)
 
 日本時代為台北刑務所
 
@@ -802,27 +802,27 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 1975 後搬至臺灣臺北看守所（土城看守所）
 
-![](img%5C03_114.webp)
+![](img/03_114.webp)
 
 ---
 
-![](img%5C03_116.webp)
+![](img/03_116.webp)
 
-![](img%5C03_117.webp)
+![](img/03_117.webp)
 
 ---
 
-![](img%5C03_119.webp)
+![](img/03_119.webp)
 
 1967年航照圖，臺北看守所舊址（臺北市愛國東路1號）與臺北監獄（放射狀監舍處）共用同一場域。
 
-![](img%5C03_120.webp)
+![](img/03_120.webp)
 
 ---
 
 # 1975 臺灣臺北看守所（土城看守所）(仁舍)
 
-![](img%5C03_122.webp)
+![](img/03_122.webp)
 
 臺北看守所後期搬遷到臺北縣土城鄉立德路。
 
@@ -830,7 +830,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 仁舍不再是獨立區塊，後來調查局撤出。
 
-![](img%5C03_123.webp)
+![](img/03_123.webp)
 
 ---
 
@@ -840,9 +840,9 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 直到1958年7月才轉至臺北市吳興街設立「第一留質室」（後改名為「三張犁招待所」）
 
-![](img%5C03_125.webp)
+![](img/03_125.webp)
 
-![](img%5C03_126.webp)
+![](img/03_126.webp)
 
 ---
 
@@ -856,15 +856,15 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 柏楊、雷震案在此辦，都是先決定辦人再找理由。
 
-![](img%5C03_128.webp)
+![](img/03_128.webp)
 
-![](img%5C03_129.webp)
+![](img/03_129.webp)
 
 ---
 
-![](img%5C03_131.webp)
+![](img/03_131.webp)
 
-![](img%5C03_132.webp)
+![](img/03_132.webp)
 
 # 1949
 
@@ -942,7 +942,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 # 1970 彭明敏出境
 
-![](img%5C03_134.webp)
+![](img/03_134.webp)
 
 彭明敏在五十三年發表“台灣人民自救宣言”強調“在國民黨與共產黨之外，從台灣選擇第三條路”遭逮捕判刑八年，後在國際輿論與海外壓力下，同年十一月獲得蔣中正特赦。
 
@@ -960,7 +960,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 負責跟監的人員怨聲載道“頭腦不清和缺乏常識，是造成錯誤決策的主因”
 
-![](img%5C03_135.webp)
+![](img/03_135.webp)
 
 ---
 
@@ -993,7 +993,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 # 1968 臺灣省警備總司令部軍法處看守所(景美)
 
-![](img%5C03_139.webp)
+![](img/03_139.webp)
 
 原名為新店二十張景美軍事看守所。
 
@@ -1007,35 +1007,35 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 2002年整個園區被登錄為歷史建築，並規劃就地保留為「景美人權紀念園區」
 
-![](img%5C03_140.webp)
+![](img/03_140.webp)
 
 ---
 
-![](img%5C03_142.webp)
+![](img/03_142.webp)
 
-![](img%5C03_143.webp)
+![](img/03_143.webp)
 
-![](img%5C03_144.webp)
+![](img/03_144.webp)
 
-![](img%5C03_145.webp)
+![](img/03_145.webp)
 
 ---
 
-![](img%5C03_147.webp)
+![](img/03_147.webp)
 
 余登發案、美麗島案、汪希苓審判的地點。
 
-![](img%5C03_148.webp)
+![](img/03_148.webp)
 
 ---
 
-![](img%5C03_150.webp)
+![](img/03_150.webp)
 
-![](img%5C03_151.webp)
+![](img/03_151.webp)
 
-![](img%5C03_152.webp)
+![](img/03_152.webp)
 
-![](img%5C03_153.webp)
+![](img/03_153.webp)
 
 ---
 
@@ -1051,40 +1051,40 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 2022年1月，促進轉型正義委員會將安康接待室審定為不義遺址，行政院規劃將產權移交給文化部，由國家人權博物館管理。
 
-![](img%5C03_155.webp)
+![](img/03_155.webp)
 
-![](img%5C03_156.webp)
-
----
-
-![](img%5C03_158.webp)
-
-![](img%5C03_159.webp)
-
-![](img%5C03_160.webp)
-
----
-![](img%5C03_162.webp)
-
-![](img%5C03_163.webp)
-
-![](img%5C03_164.webp)
+![](img/03_156.webp)
 
 ---
 
-![](img%5C03_166.webp)
+![](img/03_158.webp)
 
-![](img%5C03_167.webp)
+![](img/03_159.webp)
 
-![](img%5C03_168.webp)
+![](img/03_160.webp)
 
-![](img%5C03_171.webp)
+---
+![](img/03_162.webp)
+
+![](img/03_163.webp)
+
+![](img/03_164.webp)
 
 ---
 
-![](img%5C03_173.webp)
+![](img/03_166.webp)
 
-![](img%5C03_174.webp)
+![](img/03_167.webp)
+
+![](img/03_168.webp)
+
+![](img/03_171.webp)
+
+---
+
+![](img/03_173.webp)
+
+![](img/03_174.webp)
 
 ---
 
@@ -1120,7 +1120,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 * 後續吳泰安從琉球偷渡回台後，在屏東一代的寺廟聯合和他類似的人物自封“台灣共和國統領”並印製信件傳單到處散發。
 
 
-![](img%5C03_178.webp)
+![](img/03_178.webp)
 
 ---
 
@@ -1141,7 +1141,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 同日上午下令即將舉行的增額中央民意代表選舉（中華民國第一屆立法委員第三次增額選舉）暫時停止。
 
-![](img%5C03_181.webp)
+![](img/03_181.webp)
 
 ---
 
@@ -1157,7 +1157,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
   * 隔天在美國有力人士介入下，調查局放人。
 
 
-![](img%5C03_183.webp)
+![](img/03_183.webp)
 
 ---
 
@@ -1171,7 +1171,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 橋頭鄉遊行事件讓民眾發現政府對民眾抗議的態度有所轉變，遂醞釀美麗島事件。
 
-![](img%5C03_185.webp)
+![](img/03_185.webp)
 
 ---
 
@@ -1187,7 +1187,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 在安康招待所審訊，目標是讓陳菊等人承認正在實行“三階段奪權計劃”，實施叛亂暴動。
 
-![](img%5C03_187.webp)
+![](img/03_187.webp)
 
 ---
 
@@ -1213,7 +1213,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 黃世宗的哥哥黃世梗準備出境，調查局提前發動拘提，找大大量的炸彈製作證據與台灣獨立聯盟主席張燦鍙和李朝旺的聯繫文件。
 
-![](img%5C03_190.webp)
+![](img/03_190.webp)
 
 ---
 
@@ -1229,15 +1229,15 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 因為國外情報機構公然派殺手到美國本土刺殺美國公民，使得兩國關係陷入緊張，美國國務院也不斷提示本案將影響對臺軍售，給國民黨政府施加強大壓力。
 
-![](img%5C03_192.webp)
+![](img/03_192.webp)
 
-![](img%5C03_193.webp)
+![](img/03_193.webp)
 
-![](img%5C03_194.webp)
+![](img/03_194.webp)
 
 ---
 
-![](img%5C03_196.webp)
+![](img/03_196.webp)
 
 * 1985年1月12日，蔣經國下令逮捕軍事情報局長汪希苓、副局長胡儀敏、第三處副處長陳虎門
   * 2月7日，美方再要求將嫌犯引渡至美國受審，但蔣經國擔心將引起不堪的政治後果而加以婉拒。
@@ -1246,7 +1246,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 * 1985年7月1日，蔣經國下令取消「國防部情報局」編制，將該局業­務與國防部特種軍事情報室（1958年由國防部第二廳改組而成）合併，另組「軍事情報局」，由參謀總長郝柏村上將負責指揮。
 
 
-![](img%5C03_197.webp)
+![](img/03_197.webp)
 
 ---
 
@@ -1338,7 +1338,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 鴻源、龍祥、永安、勇明、
 
-![](img%5C03_204.webp)
+![](img/03_204.webp)
 
 ---
 
@@ -1354,7 +1354,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 調查局為追查贓款，找陳洽波幫忙翻譯，順利查扣6億5千萬元贓款，但王德輝事發後迄今仍下落不明。
 
-![](img%5C03_206.webp)
+![](img/03_206.webp)
 
 ---
 
@@ -1414,7 +1414,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 # 1991 獨台會案
 
-![](img%5C03_210.webp)
+![](img/03_210.webp)
 
 解嚴後第一起叛亂案。
 
@@ -1426,11 +1426,11 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 高檢署檢察長陳涵表示，終止動員戡亂，是對中共而言，不是針對「台獨」，凡有叛亂行為者，都將依法處理。
 
-![](img%5C03_211.webp)
+![](img/03_211.webp)
 
 ---
 
-![](img%5C03_213.webp)
+![](img/03_213.webp)
 
 逮捕行動相當成功，被監控對象無一漏網所有證據也都查扣到案，若論當時法律構成要件這些嫌犯都肯定被判刑。
 
@@ -1444,7 +1444,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 最後本案所有被告都改判免訴。
 
-![](img%5C03_214.webp)
+![](img/03_214.webp)
 
 ---
 
@@ -1519,7 +1519,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 由於高雄市議會議員被判決有罪人數超過總額十分之三，依法全面補選，從此高雄政治生態反轉。
 
-![](img%5C03_218.webp)
+![](img/03_218.webp)
 
 ---
 
@@ -1595,7 +1595,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 最後遭起訴的球員全部翻供，未結案。
 
-![](img%5C03_224.webp)
+![](img/03_224.webp)
 
 ---
 
@@ -1635,7 +1635,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 法務部長陳定南揚言裁撤調查局，在立院被立委要求和調查局局長握手時一度無視調查局局長。
 
-![](img%5C03_226.webp)
+![](img/03_226.webp)
 
 ---
 
@@ -1649,7 +1649,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 追查公文的字號發現完全是虛構的，再查文件中提到的專案名稱也是假的，因此調查局認定這個肯定有隱情，就根據公文中的資料去銀行調閱提到的某個帳戶。
 
-![](img%5C03_228.webp)
+![](img/03_228.webp)
 
 ---
 
@@ -1732,15 +1732,15 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 # 調查局近年偵破共諜案
 
-![](img%5C03_236.webp)
+![](img/03_236.webp)
 
 [Wiki:](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E8%BB%8D%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%85%B1%E9%96%93%E8%AB%9C%E5%88%97%E8%A1%A8#cite_note-138)[中華民國國軍中的中共間諜列表](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E8%BB%8D%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%85%B1%E9%96%93%E8%AB%9C%E5%88%97%E8%A1%A8#cite_note-138)
 
 [中國國安部稱破獲千起台諜案](https://news.cts.com.tw/cts/general/202408/202408152364074.html)
 
-![](img%5C03_237.webp)
+![](img/03_237.webp)
 
-![](img%5C03_238.webp)
+![](img/03_238.webp)
 
 ---
 
@@ -1763,7 +1763,7 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 # 總攬
 
-![](img%5C03_241.webp)
+![](img/03_241.webp)
 
 ~1950：偵防為主、包含海外行動，調查員只有在中國時期的國民黨黨員，毫無法律概念。
 
@@ -1783,21 +1783,21 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 # 1947 天馬茶房
 
-![](img%5C03_242.webp)
+![](img/03_242.webp)
 
-![](img%5C03_243.webp)
+![](img/03_243.webp)
 
-![](img%5C03_244.webp)
+![](img/03_244.webp)
 
-![](img%5C03_245.webp)
+![](img/03_245.webp)
 
-![](img%5C03_246.webp)
+![](img/03_246.webp)
 
 ---
 
 # 1940 馬場町刑場
 
-![](img%5C03_247.webp)
+![](img/03_247.webp)
 
 日本時代，日本陸軍於明治42（1909）年設立「臺北練兵場」
 
@@ -1807,11 +1807,11 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 共諜吳石被中國旅客獻花。
 
-![](img%5C03_248.webp)
+![](img/03_248.webp)
 
-![](img%5C03_249.webp)
+![](img/03_249.webp)
 
-![](img%5C03_250.webp)
+![](img/03_250.webp)
 
 ---
 
@@ -1823,35 +1823,35 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 1952年2月川端橋南端刑場取代水源地一帶成為主要刑場。
 
-![](img%5C03_251.webp)
+![](img/03_251.webp)
 
-![](img%5C03_252.webp)
+![](img/03_252.webp)
 
 ---
 
 # 1952 川端橋刑場
 
-![](img%5C03_253.webp)
+![](img/03_253.webp)
 
 1952年2月，川端橋南端取代水源地作為主要刑場，初時稱作「川端橋臨時刑場」，後稱「川端橋南端刑場」，
 
 至1953年底停用。
 
-![](img%5C03_254.webp)
+![](img/03_254.webp)
 
-![](img%5C03_255.webp)
+![](img/03_255.webp)
 
 ---
 
 # 1954~1988 安坑刑場
 
-![](img%5C03_256.webp)
+![](img/03_256.webp)
 
 安坑刑場最遲於1954年2月正式啟用，直到1988年左右才開始由司法監獄取代其功能，設置時間長達30多年。
 
 刑場槍決的政治犯包括湯守仁、高一生、林日高，泰源事件的江炳興、鄭金河、詹天增、陳良、謝東榮。
 
-![](img%5C03_257.webp)
+![](img/03_257.webp)
 
 ---
 
@@ -1863,17 +1863,17 @@ _[二二八事件中的保密局](https://toaj.stpi.niar.org.tw/file/article/dow
 
 旁邊有白崇禧墓園、蔣渭水墓園。
 
-![](img%5C03_258.webp)
+![](img/03_258.webp)
 
-![](img%5C03_259.webp)
+![](img/03_259.webp)
 
-![](img%5C03_260.webp)
+![](img/03_260.webp)
 
 ---
 
-![](img%5C03_261.webp)
+![](img/03_261.webp)
 
-![](img%5C03_262.webp)
+![](img/03_262.webp)
 
-![](img%5C03_263.webp)
+![](img/03_263.webp)
 
